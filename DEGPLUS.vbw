@@ -1,0 +1,11 @@
+frmClientes = 0, 0, 491, 650, C, 327, 0, 654, 650, C
+frmMain = 3, 3, 801, 445, , 119, 139, 917, 581, C
+frmCanales = 654, 0, 981, 650, C, 182, 182, 978, 624, C
+frmArticulos = 491, 0, 982, 650, C, 0, 0, 491, 650, C
+frmRegistroVentas = 654, 0, 981, 650, , 0, 0, 491, 650, C
+frmListaClientes = 52, 52, 826, 494, C, 130, 130, 904, 572, C
+mdlScripts = 0, 0, 774, 442, C
+frmListaArticulos = 104, 104, 878, 546, C, 208, 208, 982, 650, C
+frmStock = 0, 0, 491, 650, C, 156, 156, 930, 598, C
+frmDistribuir = 52, 52, 819, 494, Z, 208, 208, 975, 650, C
+frmCajaDiaria = 182, 182, 949, 624, C, 208, 208, 975, 650, C
